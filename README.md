@@ -26,7 +26,7 @@ docker run -it --rm -v $PWD:/app minica
 Example: create certificates for localhost/127.0.0.1
 
 ```
-docker run -it --rm -v $PWD:/app minica --domanies 127.0.0.1
+docker run -it --rm -v $PWD:/app minica --domains 127.0.0.1
 ```
 
 ## Built With
